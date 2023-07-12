@@ -1,6 +1,8 @@
 ** Mainnet Network Details **
-Network Name: MaalChain
-RPC URL: https://node1-mainnet.maalscan.io, https://node2-mainnet.maalscan.io, https://node3-mainnet.maalscan.io
+Network Name: MaalChain  
+
+RPC URL: https://node1-mainnet.maalscan.io, https://node2-mainnet.maalscan.io, https://node3-mainnet.maalscan.io  
+
 CHAIN ID: 786
 TOKEN NAME: MAAL
 Explorer: https://maalscan.io
